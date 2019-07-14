@@ -3,4 +3,4 @@ React native photo uploader from device camera or camera roll to the Node.js ser
 
 #Screenshot from app
 
-![alt text](https://i.ibb.co/MMx0GXg/Whats-App-Image-2019-07-14-at-23-44-21.jpg)
+<img src="https://i.ibb.co/MMx0GXg/Whats-App-Image-2019-07-14-at-23-44-21.jpg" width="350" height="650"/>
